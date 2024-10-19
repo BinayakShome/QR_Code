@@ -12,7 +12,7 @@
 <h3>📸 Screenshots</h3>
 ![image](https://github.com/user-attachments/assets/40e25bd9-c545-46b0-8f82-cc0dcd1456bf)
 ![image](https://github.com/user-attachments/assets/1f11ae46-f607-49d7-8bd4-a47f8917c3b4)
-![Screenshot_20241019_184238](https://github.com/user-attachments/assets/bc4204e0-7604-48d4-b6c6-a9ef903d121b)
+![Screenshot_20241019_184238](https://github.com/user-attachments/assets/53ad1cab-a3ce-417a-a42b-dfc26b8ccf94)
 
 
 <h3>🛠️ Requirements</h3>
